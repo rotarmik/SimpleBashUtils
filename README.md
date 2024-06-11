@@ -19,7 +19,7 @@ cd SimpleBashUtils/src/
  ```
  make s21_cat 
  ```
- to start programm testing:
+ to start program testing:
  ```
  make run_tests 
  ```
@@ -29,7 +29,7 @@ cd SimpleBashUtils/src/
  ```
  make s21_grep
  ```
- to start programm testing:
+ to start program testing:
  ```
  make run_tests 
  ```
